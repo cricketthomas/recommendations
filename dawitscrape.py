@@ -25,7 +25,7 @@ for data in soup.select(".Container"):
     record = {
         "title": data.td.get_text(),
         "top_player": stat.get_text() +' ' + stat.next_sibling.get_text(),
-        "all_stats": myDict
+        "all_stats": all_stats
     }
     stats.append(record)
 #print(*stats, sep='\n')
