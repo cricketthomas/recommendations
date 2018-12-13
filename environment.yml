@@ -11,8 +11,10 @@ dependencies:
   - ipyvolume
   - ipywidgets
   - pandas       
-  - urllib
+  - urllib2
   - scikit-learn
   - requests
   - python
-  - urllib3
+
+
+
