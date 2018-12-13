@@ -13,10 +13,6 @@ dependencies:
   - pandas       
   - urllib
   - scikit-learn
-  - json
-  - time
-  - random
   - requests
-  - warnings
   - python
 
