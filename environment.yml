@@ -15,5 +15,4 @@ dependencies:
   - scikit-learn
   - requests
   - python
-  - urllib3=1.23=py37_0
-
+  - urllib3
