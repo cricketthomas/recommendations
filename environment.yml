@@ -4,7 +4,6 @@ channels:
 dependencies:
   - appmode
   - numpy
-  - nbgitpuller
   - sphinx-gallery
   - pandas
   - matplotlib
