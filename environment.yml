@@ -1,0 +1,25 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - nbgitpuller
+  - sphinx-gallery
+  - pandas
+  - matplotlib
+  - appmode
+  - ipyvolume
+  - ipywidgets
+  - pandas       
+  - urllib.request
+  - urllib.parse
+  - urllib.error
+  - json
+  - time
+  - random
+  - requests
+  - sys
+  - json_normalize
+  - warnings
+    
