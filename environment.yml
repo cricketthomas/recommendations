@@ -11,13 +11,12 @@ dependencies:
   - ipyvolume
   - ipywidgets
   - pandas       
-  - ipython=6.5.0=py37_0
-  - ipython_genutils=0.2.0=py37_0
-  - ipywidgets=7.4.1=py37_0
-  - pandas=0.23.4=py37h830ac7b_0
-  - pandoc=1.19.2.1=hb2460c7_1
-  - pandocfilters=1.4.2=py37_1
-  - pip:
-    - msgpack==0.5.6
-    - tables==3.4.4
+  - urllib
+  - scikit-learn
+  - json
+  - time
+  - random
+  - requests
+  - warnings
+  - python
 
